@@ -1,9 +1,9 @@
 # Your Name
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)
-**Phone:** (555) 555-5555
+**Email:** Lilyw7@hawaii.edu
+**Phone:** 8083974256
 **LinkedIn:** linkedin.com/in/yourname
-**GitHub/Portfolio:** github.com/yourusername
+**GitHub/Portfolio:** https://github.com/lilywilson7/Lily-Wilson--Read-Me/edit/main/Resume.md
 
 ---
 
@@ -63,3 +63,6 @@ Motivated finance student seeking a Financial Analyst position where I can apply
 ---
 
 *Drafted with help from ChatGPT (OpenAI, 2026); reviewed and edited by me.*
+git add .
+git commit -m "Add finance bio and resume"
+git push
