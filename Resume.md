@@ -1,9 +1,12 @@
 # Your Name
 
-**Email:** Lilyw7@hawaii.edu
+**Email:** lilyw7@hawaii.edu
+
 **Phone:** 8083974256
-**LinkedIn:** linkedin.com/in/yourname
-**GitHub/Portfolio:** https://github.com/lilywilson7/Lily-Wilson--Read-Me/edit/main/Resume.md
+
+**LinkedIn:** www.linkedin.com/in/lily-wilson-400139387
+
+**GitHub/Portfolio:** https://github.com/lilywilson7/Lily-Wilson--Read-Me
 
 ---
 
@@ -23,46 +26,33 @@ Motivated finance student seeking a Financial Analyst position where I can apply
 
 ## Skills
 
-* Financial Analysis
-* Financial Modeling
-* Financial Statement Analysis
-* Microsoft Excel
-* Microsoft PowerPoint
-* Data Analysis
-* Budgeting & Forecasting
-* Business Communication
-* Attention to Detail
-* Team Collaboration
-
----
-
-## Certifications
-
-* Bloomberg Market Concepts (BMC)
-* Microsoft Excel Certification
-* Financial Modeling Certification
-
+- Microsoft Excel
+- Microsoft PowerPoint
+- Financial Statement Analysis
+- Data Analysis
+- Business Communication
+- Team Collaboration
+- Attention to Detail
+- Time Management
 ---
 
 ## Relevant Coursework
 
-* Corporate Finance
-* Financial Management
-* Investments
-* Accounting
-* Business Statistics
-* Economics
+- Corporate Finance
+- Financial Management
+- Investments
+- Accounting
+- Business Statistics
+- Economics
 
 ---
 
-## Activities
+## Interests
 
-* Continuing professional development through finance coursework and certifications
-* Interest in financial markets, investing, and business analytics
-
+- Financial markets
+- Investing
+- Real estate
+- Business analytics
 ---
 
 *Drafted with help from ChatGPT (OpenAI, 2026); reviewed and edited by me.*
-git add .
-git commit -m "Add finance bio and resume"
-git push
