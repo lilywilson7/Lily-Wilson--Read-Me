@@ -41,3 +41,14 @@ The final specification was reviewed by the student and saved as:
 `docs/specs/2026-08-08-Wilson-aerospace-spec.md`
 
 The specification is intended to serve as the build instruction for Phase 3, where the workbook will be generated and then audited against the validation rules defined in this document.
+## Stage 3 — Workbook Build
+
+**Prompt:** Build the Phase 3 workbook from the committed Stage 2 specification, including all ten named ranges, formulas-only calculations, three hedge families, sensitivity table/chart, validation checks, and the required workbook structure.
+
+**Iteration 1:** After reviewing the generated workbook, I found that the covered-interest-parity check failed because the placeholder `R_FC` was inconsistent with the placeholder forward rate. I changed the placeholder `R_FC` to 5.3% so the placeholder assumptions were internally consistent.
+
+**Iteration 2:** The money-market Step 2 and Step 3 formulas used intermediate cell references. I replaced them with equivalent formulas using the required named-range inputs.
+
+**Iteration 3:** The sensitivity Forward and Money Market columns used cross-sheet cell references. I replaced them with formulas based directly on the named-range contract.
+
+**Audit result:** The final workbook passes the parity check, contains all ten required named ranges, has formula-driven hedge calculations and sensitivity outputs, and includes the required comparison chart.
