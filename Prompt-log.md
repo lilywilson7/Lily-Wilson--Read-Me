@@ -52,3 +52,14 @@ The specification is intended to serve as the build instruction for Phase 3, whe
 **Iteration 3:** The sensitivity Forward and Money Market columns used cross-sheet cell references. I replaced them with formulas based directly on the named-range contract.
 
 **Audit result:** The final workbook passes the parity check, contains all ten required named ranges, has formula-driven hedge calculations and sensitivity outputs, and includes the required comparison chart.
+## 2026-08-14 — Phase 4 Market Data
+
+AI assistance was used during the Phase 4 market-data retrieval and model verification process.
+
+- Used AI to identify appropriate reputable sources for EUR/USD spot and 1-year interest-rate inputs.
+- Used AI to calculate and verify the CIP-implied 1-year forward rate.
+- Used AI to check the workbook formulas after replacing placeholder inputs with live market data.
+- Used AI to verify the forward hedge and money-market hedge calculations and confirm the parity check passed.
+- Used AI to review the sensitivity table and confirm that the model recalculated correctly around the live spot rate.
+- Scenario-given option premiums were retained as instructed by the assignment.
+- Final values were entered into the workbook and independently checked in the FX Hedging Lab.
